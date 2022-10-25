@@ -1,0 +1,63 @@
+.post{
+    width: 23%;
+    margin-top: 8%;
+    margin-left: 35%;
+}
+
+.divs{
+    float: left;
+    width: 100%;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.divs1{
+    margin-left: 1%;
+    float: left;
+    width: 5%;
+    margin-top: 10px;
+}
+
+.divs2{
+    float: left;
+    width: 8%;
+}
+
+.divs3{
+    position: relative;
+    float: right;
+    margin-right: 4%;
+    margin-top: 10px;
+}
+
+.divi{
+    float: left;
+    width: 100%;
+    margin-top: 3px;
+}
+
+.divi0{
+    margin-left: 1%;
+    float: left;
+    width: 5%;
+}
+
+.divi01{
+    margin-left: 1%;
+    float: left;
+    width: 5%;
+}
+
+.divi02{
+    margin-left: 1%;
+    float: left;
+    width: 5%;
+}
+.divi03{
+    position: relative;
+    float: right;
+    margin-right: 4%;
+}
+.divi1{
+    margin-left: 1%;
+}
