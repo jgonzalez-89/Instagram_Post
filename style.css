@@ -1,8 +1,14 @@
 .post{
-    width: 23%;
-    margin-top: 8%;
-    margin-left: 35%;
+    width: 40%;
+    height: 50%;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
 }
+
+body {background-color:black;}
 
 .divs{
     float: left;
@@ -60,4 +66,14 @@
 }
 .divi1{
     margin-left: 1%;
+    position: absolute;
+}
+.div_like {
+    padding: 2%;
+
+}
+.div_text {
+    padding: 2%;
+    text-align:justify;
+    
 }
