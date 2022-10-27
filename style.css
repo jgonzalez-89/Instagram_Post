@@ -30,6 +30,8 @@ body {background-color:black;}
 }
 
 .divs2{
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
     float: left;
     width: 8%;
 }
@@ -48,23 +50,24 @@ body {background-color:black;}
 }
 
 .faheart{
-    margin-left: 1%;
+    padding: 10px;
     float: left;
     width: 5%;
 }
 
 .facomment{
-    margin-left: 1%;
+    padding: 10px;
     float: left;
     width: 5%;
 }
 
 .fapaper{
-    margin-left: 1%;
+    padding: 10px;
     float: left;
     width: 5%;
 }
 .fabookmark{
+    padding: 10px;
     position: relative;
     float: right;
     margin-right: 4%;
@@ -74,10 +77,15 @@ body {background-color:black;}
     position: absolute;
 }
 .div_like {
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
     padding: 2%;
 
 }
 .div_text {
+    font-size: larger;
+    font-family: 'Roboto', sans-serif;
     padding: 2%;
     text-align:justify;
     
