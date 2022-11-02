@@ -1,92 +1,61 @@
 .post{
     width: 650px;
-    height: 900px;
     margin: auto;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%)
-}
-.back {
-    width: 1251px;
-    height: 1204px;
-    background-color: black;
 }
 
-body {background-color:black;}
+body {
+    background-color:rgb(71, 71, 71);
+}
 
-.divs{
+.div_head{
     float: left;
     width: 100%;
     margin-top: 9px;
     margin-bottom: 9px;
 }
 
-.divs1{
+.html5_ICON{
     margin-left: 1%;
     float: left;
     width: 5%;
     margin-top: 10px;
 }
 
-.divs2{
+.div_name{
     font-size: larger;
     font-family: 'Roboto', sans-serif;
     float: left;
     width: 8%;
 }
 
-.divs3{
-    position: relative;
+.dots_ICON{
     float: right;
     margin-right: 4%;
     margin-top: 10px;
 }
 
-.divi{
+.div_bottom{
     float: left;
     width: 100%;
     margin-top: 3px;
 }
 
-.faheart{
+.heart_ICON, .paper_ICON, .comment_ICON{
     padding: 10px;
     float: left;
     width: 5%;
 }
 
-.facomment{
+.bookmark_ICON{
     padding: 10px;
-    float: left;
-    width: 5%;
-}
-
-.fapaper{
-    padding: 10px;
-    float: left;
-    width: 5%;
-}
-.fabookmark{
-    padding: 10px;
-    position: relative;
     float: right;
     margin-right: 4%;
 }
-.divi1{
-    margin-left: 1%;
-    position: absolute;
-}
-.div_like {
-    font-size: larger;
-    font-family: 'Roboto', sans-serif;
-    margin-top: 20px;
-    padding: 2%;
 
-}
-.div_text {
+.div_like, .div_text {
     font-size: larger;
     font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
     padding: 2%;
     text-align:justify;
-    
 }
